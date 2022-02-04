@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+    todolist:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        ports:
+            - "8080:8080"
+        command:
+            sh run.sh
+    db:
+        image: mysql
+        environment:
+            MYSQL_ROOT_PASSWORD: "qqqq400008000"
+        ports:
+            - "3308:3306"

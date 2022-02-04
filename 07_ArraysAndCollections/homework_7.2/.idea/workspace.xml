@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a6dc9ca-4c6a-4f15-9550-822aa95fb9d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../homework_7.3/EmailList/src/main/java/EmailList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7.3/EmailList/src/main/java/EmailList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7.3/EmailList/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7.3/EmailList/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_7.3/EmailList/src/test/java/EmailListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_7.3/EmailList/src/test/java/EmailListTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qG0LAG2XgyFF2RBtCN0Qi0aN2P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework_7.3/EmailList" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a6dc9ca-4c6a-4f15-9550-822aa95fb9d4" name="Default Changelist" comment="" />
+      <created>1616690560306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616690560306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1616690587995">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1616690587995" />
+  </component>
+</project>

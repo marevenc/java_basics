@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>ToDo List</title>
+</head>
+<body>
+    <h1>Tasks (<span th:text="${tasksCount}">0</span>)</h1>
+    <table border="1">
+        <tr>
+            <th>N</th>
+            <th>Task</th>
+        </tr>
+        <tr th:each="task: ${tasks}">
+            <td th:text="${task.id}" />
+            <td th:text="${task.name}" />
+        </tr>
+    </table>
+</body>
+</html>

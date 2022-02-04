@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="863b1385-ac51-4ccb-93ba-25f78b8e5599" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/main/java/GeometryCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/main/java/GeometryCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestGetCircleSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestGetCircleSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestGetSphereVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestGetSphereVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestGetTriangleSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestGetTriangleSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestIsTrianglePossible.java" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4.3/GeometryCalculator/src/test/java/TestIsTrianglePossible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/TrucksContainersAndBoxes/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/TrucksContainersAndBoxes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/TrucksContainersAndBoxes/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_4.3/TrucksContainersAndBoxes/src/test/java/TestTrucksContainersAndBoxes.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1peWCJWHRPrlruNBrJKJ8vPPba1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_4.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="863b1385-ac51-4ccb-93ba-25f78b8e5599" name="Default Changelist" comment="" />
+      <created>1615543907234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615543907234</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1615546685548">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1615546685548" />
+    <state x="338" y="129" key="git4idea.merge.GitPullDialog" timestamp="1615546650652">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="338" y="129" key="git4idea.merge.GitPullDialog/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1615546650652" />
+    <state x="91" y="0" key="new project wizard" timestamp="1615544002704">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1615544002704" />
+  </component>
+</project>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7faff845-593a-466f-9447-dc6ae72925dc" name="Default Changelist" comment="lesson 18.4">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22Jgj8GdPLWsBFv3RgHJXJG6nVO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mariya Kosheleva\java_basics\17_SpringBootWebDevelopment\ToDoList\target" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="ToDoList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7faff845-593a-466f-9447-dc6ae72925dc" name="Default Changelist" comment="" />
+      <created>1639561235400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639561235400</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lesson 18.1">
+      <created>1639562239727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639562239727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 18.1.1">
+      <created>1639565701985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639565701985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 18.1.2">
+      <created>1639653524677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639653524677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 18.2">
+      <created>1639909502338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639909502338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 18.3">
+      <created>1640180933061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640180933062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 18.3 added Dao">
+      <created>1640472806296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640472806296</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 18.3 upd">
+      <created>1640619701429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640619701429</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson 18.4">
+      <created>1641298806815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641298806815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 18.1" />
+    <MESSAGE value="lesson 18.1.1" />
+    <MESSAGE value="lesson 18.1.2" />
+    <MESSAGE value="lesson 18.2" />
+    <MESSAGE value="lesson 18.3" />
+    <MESSAGE value="lesson 18.3 added Dao" />
+    <MESSAGE value="lesson 18.3 upd" />
+    <MESSAGE value="lesson 18.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 18.4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643130804760">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="382" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643130804760" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1640471672213">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1640471672213" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1643300769602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643300769602" />
+    <state x="789" y="1094" key="FileChooserDialogImpl/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640014509371" />
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1643128708862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643128708862" />
+    <state width="957" height="138" key="GridCell.Tab.0.bottom/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640619764338" />
+    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1643128708862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643128708862" />
+    <state width="957" height="138" key="GridCell.Tab.0.center/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640619764337" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1643128708861">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643128708861" />
+    <state width="957" height="138" key="GridCell.Tab.0.left/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640619764337" />
+    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1643128708862">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643128708862" />
+    <state width="957" height="138" key="GridCell.Tab.0.right/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640619764337" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1639561867492">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1639561867492" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1641298819865">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1641298819865" />
+    <state x="642" y="1080" key="Vcs.Push.Dialog.v2/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640619720116" />
+    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1639865082967">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1639865082967" />
+    <state x="0" y="0" key="new project wizard" timestamp="1643300771546">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.680/460.1080.1000.504@0.0.1280.680" timestamp="1643300771546" />
+    <state x="460" y="1080" key="new project wizard/0.0.1280.680/460.1080.1000.504@460.1080.1000.504" timestamp="1640016306050" />
+  </component>
+</project>
